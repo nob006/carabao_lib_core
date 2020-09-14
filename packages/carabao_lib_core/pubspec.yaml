@@ -1,8 +1,8 @@
 name: carabao_lib_core
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: adisorn talaso<nop.gpk@gmail.com>
+homepage: https://github.com/nob006/carabao_lib_core
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
